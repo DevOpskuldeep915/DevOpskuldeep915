@@ -87,11 +87,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevOpskuldeep915/DevOpskuldeep915/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DevOpskuldeep915/count.svg?"  />
-</div>
 
 ###
 
